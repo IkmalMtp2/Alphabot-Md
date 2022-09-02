@@ -28,9 +28,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "FreezeXBOT" //namabot kalian
 global.ownername= "Ikmal" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
+global.myweb ="https://api.ikmalmtp2.xyz" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCk2nwucP_xvVekaokk0QnWg" //bebas asal jan hapus
+global.myweb2 = "https://linktr.ee/IkmalMtp2" //bebas
 global.email = "ikmalganteng095@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Karawang' //  timezone wib
